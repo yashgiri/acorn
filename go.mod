@@ -46,8 +46,8 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.8.1
 	github.com/tonistiigi/fsutil v0.0.0-20220315205639-9ed612626da3
-	golang.org/x/crypto v0.2.0
-	golang.org/x/exp v0.0.0-20221114191408-850992195362
+	golang.org/x/crypto v0.7.0
+	golang.org/x/exp 522b1b587ee0
 	golang.org/x/sync v0.1.0
 	google.golang.org/grpc v1.48.0
 	gopkg.in/src-d/go-git.v4 v4.13.1
